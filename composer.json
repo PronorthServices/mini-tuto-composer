@@ -1,0 +1,15 @@
+{
+    "name": "root/mini-tuto-composer",
+    "authors": [
+        {
+            "name": "Daniel Rubin",
+            "email": "danielrubin95@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tutorial\\": "src/"
+        }
+    }
+}
